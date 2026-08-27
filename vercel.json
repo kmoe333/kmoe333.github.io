@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/coaching-services",
+      "destination": "https://kristinmoecoaching.com/coaching-services",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "https://kristinmoecoaching.com/about",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "https://kristinmoecoaching.com/contact",
+      "permanent": true
+    }
+  ]
+}
